@@ -1,0 +1,13 @@
+---
+title: "Project Log"
+output: html_document
+author: Kate Passwater
+---
+
+This log will track my ongoing work on this project throughout the semester including new questions, troubleshooting, and decisions made.
+
+## 09-25-2026 - Initial setup + Fixed file combination errors
+
+- Uploaded 10 .xlsx files into PowerBI
+- Diagnosed why only metadata columns were loading instead of actual data
+- Replaced name-based sheet reference to position-based one so the query runs correctly across all 10 files
