@@ -15,3 +15,11 @@ This log will track my ongoing work on this project throughout the semester incl
 ## 10-01-2026 - Exploratory analysis + investigation into connect mySQL server
 - Created some basic visualizations to explore my way through PowerBI
 - Tried connecting mySQL local server to PowerBI with test data, but didn't make any progress
+
+## 10-17-2026 (Back to the project after completing midterms) - SQL Exploratory Analysis
+- Downloaded SQL onto the HHS laptop
+- Did some basic data cleaning (Changed column names, standarized the code for "No Prenatal Care" across all the tables)
+- Created a "total" sheet for all 10 years
+- Basic exploratory analysis with prenatal care (counts of prenatal care started by month)
+- Basic analysis of births at hospitals (how many went to Unity Point in 2015-2019 vs Mary Greeley in Ames vs MercyOne in Des Moines)
+- Inital Findings: UnityPoint was the most popular hospital for residents in Marshall County even against the larger hospitals in Ames and Des Moines until 2020 (when UnityPoint was closed)
