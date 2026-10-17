@@ -16,7 +16,7 @@ This log will track my ongoing work on this project throughout the semester incl
 - Created some basic visualizations to explore my way through PowerBI
 - Tried connecting mySQL local server to PowerBI with test data, but didn't make any progress
 
-## 10-17-2026 (Back to the project after completing midterms) - SQL Exploratory Analysis
+## 10-16-2026 (Back to the project after completing midterms) - SQL Exploratory Analysis
 - Downloaded SQL onto the HHS laptop
 - Did some basic data cleaning (Changed column names, standarized the code for "No Prenatal Care" across all the tables)
 - Created a "total" sheet for all 10 years
